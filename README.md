@@ -16,7 +16,7 @@ import bioinfokit
 import statsmodels
 ```
 
-## Comparison experiments under the hypothesis testing framework
+## Chapter 1 - Comparison experiments under the hypothesis testing framework
 
 **Quick Navigation**
 - How to select the most appropriate statistical test for comparison
